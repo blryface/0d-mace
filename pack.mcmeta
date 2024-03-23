@@ -1,14 +1,13 @@
 {
   "pack": {
     "pack_format": 15,
-    "supported_formats": [15, 30],
+    "supported_formats": [15, 999],
     "description": {
-      "text": "Write your description here.",
-      "color": "color",
-      "font": "font",
-      "bold": false,
+      "text": "Mace but it has no dimensions",
+      "color": "green",
+      "bold": true,
       "italic": false,
-      "underlined": false,
+      "underlined": true,
       "strikethrough": false,
       "obfuscated": false
     }
